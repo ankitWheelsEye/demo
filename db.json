@@ -1,14 +1,14 @@
+[
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+            num: 'NL01N 6824',
+            content: 'ओपन  •  12 चक्का  •  24 टन  •  32 फ़ीट',
+            vehiclePic : false,
+            vehicleRc : false,
+          },
+  {
+            num: 'NL01N 6824',
+            content: 'ओपन  •  12 चक्का  •  24 टन  •  32 फ़ीट',
+            vehiclePic : false,
+            vehicleRc : false,
+          },
+]
